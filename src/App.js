@@ -9,7 +9,7 @@ const App = () => {
 
  const[recipes,setRecipes]=useState([]);
 const[search, setSearch]=useState('');
-const[query,setQuery]=useState("banana");
+const[query,setQuery]=useState("Apple");
 
 
 useEffect(() =>{
